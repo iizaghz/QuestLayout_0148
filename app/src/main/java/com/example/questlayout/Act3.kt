@@ -47,5 +47,10 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
             fontSize = 22.sp
         )
 
+        Spacer(
+            modifier = Modifier.height(25.dp)
+        )
+
+
     }
 }
