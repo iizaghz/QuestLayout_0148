@@ -27,5 +27,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun ActivitasPertama(modifier: Modifier = Modifier) {}
+fun ActivitasPertama(modifier: Modifier = Modifier) {
 
+    Column{}
+}
